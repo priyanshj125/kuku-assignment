@@ -1,0 +1,15 @@
+# Swap the model here: any OpenAI-compatible endpoint (Gemini free tier shown).
+provider: openai_compatible        # or: mock  (offline heuristic, for testing the plumbing only)
+model: gemini-flash-lite-latest
+base_url: https://generativelanguage.googleapis.com/v1beta/openai/
+api_key_env: LLM_API_KEY           # export LLM_API_KEY=...
+rerank: true                       # one extra global LLM call to order the final list
+rerank_model: null                 # null = same model; set a stronger one if available
+min_len: 20
+max_len: 60
+hook_window: 3          # hook must land in first N seconds of the clip
+snap_radius: 4.0        # LLM timestamps are moved to the nearest legal cut within this many seconds
+proposals_per_episode: 4
+top_k_per_episode: 3
+final_top_k: 15
+max_per_episode_in_top: 2

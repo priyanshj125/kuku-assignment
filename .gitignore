@@ -1,0 +1,4 @@
+data/pack/
+outputs/
+__pycache__/
+runs/

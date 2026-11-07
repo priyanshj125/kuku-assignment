@@ -1,0 +1,50 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: (synthetic test episode) A bride is abandoned at the altar.
+CONTINUITY NOTES: Synthetic sample in the pack's format so the repo runs without confidential data.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. CHURCH – DAY
+Scene start: 00:00.00
+Scene end: 00:44.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Wide shot of the church doors.
+
+**ACTION:**
+Start: (00:00.00) | End: (00:04.00)
+Mara storms toward the altar and slaps Victor across the face.
+
+**MARA (Furious):**
+Start: (00:01.00) | End: (00:03.50)
+"You lied to me for ten years!"
+
+**VICTOR (Shocked):**
+Start: (00:04.50) | End: (00:08.00)
+"Mara, please, not in front of everyone."
+
+**MARA (Cold):**
+Start: (00:08.50) | End: (00:14.00)
+"Tell them whose baby I'm carrying, Victor."
+
+**VICTOR (Trembling):**
+Start: (00:14.50) | End: (00:20.00)
+"It is not mine, and you know it."
+
+**ACTION:**
+Start: (00:20.00) | End: (00:26.00)
+The guests gasp as the church doors burst open and a stranger in black steps inside.
+
+**STRANGER (Calm):**
+Start: (00:26.50) | End: (00:33.00)
+"Then I suppose the child is mine."
+
+**SOUND FX:**
+Start: (00:33.00) | End: (00:44.00)
+A low drone swells as Mara goes pale. Cut to black.
+
+--- SCRIPT END ---
